@@ -21,6 +21,8 @@ To start the server, follow these steps:
 
    ```bash
    cd API
+   npm install
+   npm start
 
 
 
