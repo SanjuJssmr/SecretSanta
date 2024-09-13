@@ -36,3 +36,14 @@ To start the client, follow these steps:
    cd UI
    npm install
    npm run dev
+
+---
+
+### Running Ports
+
+- **API**: http://localhost:3000
+- **UI**: http://localhost:5173
+
+---
+
+Happy coding 🎉
