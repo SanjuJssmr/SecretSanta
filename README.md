@@ -46,4 +46,11 @@ To start the client, follow these steps:
 
 ---
 
+### Frameworks and packages used
+
+- **API**: NodeJs, XLSX, ExpressJs, Multer
+- **UI**: ReactJs, TailwindCss, XLSX
+
+---
+
 Happy coding 🎉
